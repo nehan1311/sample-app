@@ -49,7 +49,7 @@ app.get('/', (req, res) => {
                     <h1>AWS CI/CD Pipeline Demo</h1>
 
                     <p>
-                        Application deployed successfully using
+                        Application deployed using
                         <b>GitHub Actions + AWS EC2</b>
                     </p>
 
