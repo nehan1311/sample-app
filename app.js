@@ -3,7 +3,7 @@ const express = require('express');
 const app = express();
 
 app.get('/', (req, res) => {
-    res.send('Hello from CI/CD Pipeline!');
+    res.send('CI/CD Successfully Working After Auto Deployment!');
 });
 
 app.listen(3000, () => {
